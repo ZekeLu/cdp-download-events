@@ -1,0 +1,10 @@
+{
+  "name": "cdp-download-events",
+  "version": "1.0.0",
+  "description": "to reproduce https://bugs.chromium.org/p/chromium/issues/detail?id=1204880",
+  "main": "index.js",
+  "repository": "https://github.com/ZekeLu/cdp-download-events",
+  "author": "Zeke Lu",
+  "license": "MIT",
+  "private": false
+}
