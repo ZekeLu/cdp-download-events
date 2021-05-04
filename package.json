@@ -6,5 +6,11 @@
   "repository": "https://github.com/ZekeLu/cdp-download-events",
   "author": "Zeke Lu",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "env DEBUG=\"puppeteer:*\" node index.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^9.1.0"
+  }
 }
